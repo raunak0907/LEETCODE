@@ -18,4 +18,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/raunak0907/LEETCODE/tree/master/0015-3sum) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/raunak0907/LEETCODE/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/raunak0907/LEETCODE/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/raunak0907/LEETCODE/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
