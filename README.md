@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/raunak0907/LEETCODE/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/raunak0907/LEETCODE/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/raunak0907/LEETCODE/tree/master/0049-group-anagrams) |
 | [0347-top-k-frequent-elements](https://github.com/raunak0907/LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [3731-find-missing-elements](https://github.com/raunak0907/LEETCODE/tree/master/3731-find-missing-elements) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/raunak0907/LEETCODE/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/raunak0907/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/raunak0907/LEETCODE/tree/master/0049-group-anagrams) |
 ## Stack
@@ -62,4 +64,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/raunak0907/LEETCODE/tree/master/0347-top-k-frequent-elements) |
+## Math
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/raunak0907/LEETCODE/tree/master/0012-integer-to-roman) |
 <!---LeetCode Topics End-->
