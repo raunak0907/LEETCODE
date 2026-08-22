@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/raunak0907/LEETCODE/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/raunak0907/LEETCODE/tree/master/0031-next-permutation) |
 | [0049-group-anagrams](https://github.com/raunak0907/LEETCODE/tree/master/0049-group-anagrams) |
+| [0136-single-number](https://github.com/raunak0907/LEETCODE/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/raunak0907/LEETCODE/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/raunak0907/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/raunak0907/LEETCODE/tree/master/0283-move-zeroes) |
@@ -122,4 +123,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/raunak0907/LEETCODE/tree/master/0225-implement-stack-using-queues) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/raunak0907/LEETCODE/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
