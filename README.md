@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/raunak0907/LEETCODE/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/raunak0907/LEETCODE/tree/master/0031-next-permutation) |
 | [0049-group-anagrams](https://github.com/raunak0907/LEETCODE/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/raunak0907/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/raunak0907/LEETCODE/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/raunak0907/LEETCODE/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/raunak0907/LEETCODE/tree/master/0169-majority-element) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/raunak0907/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/raunak0907/LEETCODE/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/raunak0907/LEETCODE/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/raunak0907/LEETCODE/tree/master/0347-top-k-frequent-elements) |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/raunak0907/LEETCODE/tree/master/0005-longest-palindromic-substring) |
+| [0053-maximum-subarray](https://github.com/raunak0907/LEETCODE/tree/master/0053-maximum-subarray) |
 ## Manacher
 |  |
 | ------- |
