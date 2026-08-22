@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/raunak0907/LEETCODE/tree/master/0012-integer-to-roman) |
 | [0189-rotate-array](https://github.com/raunak0907/LEETCODE/tree/master/0189-rotate-array) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/raunak0907/LEETCODE/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Linked List
 |  |
 | ------- |
