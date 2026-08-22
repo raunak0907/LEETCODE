@@ -6,11 +6,11 @@ class Solution:
 
         for n in s:
             if n - 1 not in s:
-                current = n
+                length = 0
 
-                while current + 1 in s:
-                    current += 1
+                while n + length in s:
+                    length += 1
 
-                longest = max(longest, current - n + 1)
+                longest = max(longest, length)
 
         return longest
