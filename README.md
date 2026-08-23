@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/raunak0907/LEETCODE/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/raunak0907/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/raunak0907/LEETCODE/tree/master/0049-group-anagrams) |
+| [1927-sum-game](https://github.com/raunak0907/LEETCODE/tree/master/1927-sum-game) |
 ## Stack
 |  |
 | ------- |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/raunak0907/LEETCODE/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/raunak0907/LEETCODE/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/raunak0907/LEETCODE/tree/master/0189-rotate-array) |
+| [1927-sum-game](https://github.com/raunak0907/LEETCODE/tree/master/1927-sum-game) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/raunak0907/LEETCODE/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Linked List
 |  |
@@ -229,4 +231,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/raunak0907/LEETCODE/tree/master/0493-reverse-pairs) |
+## Greedy
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/raunak0907/LEETCODE/tree/master/1927-sum-game) |
+## Game Theory
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/raunak0907/LEETCODE/tree/master/1927-sum-game) |
 <!---LeetCode Topics End-->
