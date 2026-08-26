@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/raunak0907/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/raunak0907/LEETCODE/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/raunak0907/LEETCODE/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/raunak0907/LEETCODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/raunak0907/LEETCODE/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/raunak0907/LEETCODE/tree/master/1927-sum-game) |
 ## Stack
@@ -118,11 +119,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/raunak0907/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/raunak0907/LEETCODE/tree/master/0225-implement-stack-using-queues) |
 | [1021-remove-outermost-parentheses](https://github.com/raunak0907/LEETCODE/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/raunak0907/LEETCODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/raunak0907/LEETCODE/tree/master/0020-valid-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/raunak0907/LEETCODE/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/raunak0907/LEETCODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Divide and Conquer
 |  |
 | ------- |
