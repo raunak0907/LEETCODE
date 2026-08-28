@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/raunak0907/LEETCODE/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/raunak0907/LEETCODE/tree/master/0283-move-zeroes) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/raunak0907/LEETCODE/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/raunak0907/LEETCODE/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Sorting
 |  |
 | ------- |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/raunak0907/LEETCODE/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/raunak0907/LEETCODE/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/raunak0907/LEETCODE/tree/master/1927-sum-game) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/raunak0907/LEETCODE/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Stack
 |  |
 | ------- |
@@ -336,4 +338,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1392-longest-happy-prefix](https://github.com/raunak0907/LEETCODE/tree/master/1392-longest-happy-prefix) |
+## Enumeration
+|  |
+| ------- |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/raunak0907/LEETCODE/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 <!---LeetCode Topics End-->
