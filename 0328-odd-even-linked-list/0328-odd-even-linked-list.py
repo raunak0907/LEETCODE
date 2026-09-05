@@ -1,20 +1,20 @@
+# Definition for singly-linked list.
+# class ListNode:
+#     def __init__(self, val=0, next=None):
+#         self.val = val
+#         self.next = next
 class Solution:
-    def oddEvenList(self, head):
-        if not head:
+    def oddEvenList(self, head: Optional[ListNode]) -> Optional[ListNode]:
+        if not  head or not head.next:
             return head
 
-        arr = []
-        curr = head
-
-        while curr:
-            arr.append(curr.val)
-            curr = curr.next
-
-        values = arr[0::2] + arr[1::2]
-
-        curr = head
-        for value in values:
-            curr.val = value
-            curr = curr.next
-
+        odd=head
+        even=head.next
+        even_head=even
+        while even and even.next:
+            odd.next=even.next
+            odd=odd.next
+            even.next=odd.next
+            even=even.next
+        odd.next=even_head
         return head
