@@ -3,17 +3,18 @@ class Solution:
         if not head:
             return head
 
-        odd = head
-        even = head.next
-        evenHead = even
+        arr = []
+        curr = head
 
-        while even and even.next:
-            odd.next = odd.next.next
-            odd = odd.next
+        while curr:
+            arr.append(curr.val)
+            curr = curr.next
 
-            even.next = even.next.next
-            even = even.next
+        values = arr[0::2] + arr[1::2]
 
-        odd.next = evenHead
+        curr = head
+        for value in values:
+            curr.val = value
+            curr = curr.next
 
         return head
