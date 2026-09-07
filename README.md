@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/raunak0907/LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/raunak0907/LEETCODE/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/raunak0907/LEETCODE/tree/master/0049-group-anagrams) |
+| [0115-distinct-subsequences](https://github.com/raunak0907/LEETCODE/tree/master/0115-distinct-subsequences) |
 | [0151-reverse-words-in-a-string](https://github.com/raunak0907/LEETCODE/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/raunak0907/LEETCODE/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/raunak0907/LEETCODE/tree/master/0242-valid-anagram) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/raunak0907/LEETCODE/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/raunak0907/LEETCODE/tree/master/0053-maximum-subarray) |
+| [0115-distinct-subsequences](https://github.com/raunak0907/LEETCODE/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/raunak0907/LEETCODE/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/raunak0907/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/raunak0907/LEETCODE/tree/master/0152-maximum-product-subarray) |
