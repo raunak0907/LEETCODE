@@ -8,13 +8,10 @@ class Solution:
                 k -= 1
 
             stack.append(digit)
-
-        # If removals are still left
         while k > 0:
             stack.pop()
             k -= 1
 
-        # Remove leading zeros
         i = 0
         while i < len(stack) and stack[i] == '0':
             i += 1
