@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/raunak0907/LEETCODE/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/raunak0907/LEETCODE/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/raunak0907/LEETCODE/tree/master/0907-sum-of-subarray-minimums) |
+| [0912-sort-an-array](https://github.com/raunak0907/LEETCODE/tree/master/0912-sort-an-array) |
 | [0930-binary-subarrays-with-sum](https://github.com/raunak0907/LEETCODE/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/raunak0907/LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/raunak0907/LEETCODE/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/raunak0907/LEETCODE/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/raunak0907/LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/raunak0907/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
+| [0912-sort-an-array](https://github.com/raunak0907/LEETCODE/tree/master/0912-sort-an-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/raunak0907/LEETCODE/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/raunak0907/LEETCODE/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3731-find-missing-elements](https://github.com/raunak0907/LEETCODE/tree/master/3731-find-missing-elements) |
@@ -207,17 +209,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/raunak0907/LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/raunak0907/LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0493-reverse-pairs](https://github.com/raunak0907/LEETCODE/tree/master/0493-reverse-pairs) |
+| [0912-sort-an-array](https://github.com/raunak0907/LEETCODE/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/raunak0907/LEETCODE/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/raunak0907/LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/raunak0907/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
+| [0912-sort-an-array](https://github.com/raunak0907/LEETCODE/tree/master/0912-sort-an-array) |
 ## Bucket Sort
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/raunak0907/LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/raunak0907/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
+| [0912-sort-an-array](https://github.com/raunak0907/LEETCODE/tree/master/0912-sort-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -267,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0148-sort-list](https://github.com/raunak0907/LEETCODE/tree/master/0148-sort-list) |
 | [0493-reverse-pairs](https://github.com/raunak0907/LEETCODE/tree/master/0493-reverse-pairs) |
+| [0912-sort-an-array](https://github.com/raunak0907/LEETCODE/tree/master/0912-sort-an-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -498,4 +504,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/raunak0907/LEETCODE/tree/master/0239-sliding-window-maximum) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/raunak0907/LEETCODE/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/raunak0907/LEETCODE/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
