@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/raunak0907/LEETCODE/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/raunak0907/LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/raunak0907/LEETCODE/tree/master/0283-move-zeroes) |
+| [0304-range-sum-query-2d-immutable](https://github.com/raunak0907/LEETCODE/tree/master/0304-range-sum-query-2d-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/raunak0907/LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0410-split-array-largest-sum](https://github.com/raunak0907/LEETCODE/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/raunak0907/LEETCODE/tree/master/0485-max-consecutive-ones) |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/raunak0907/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
+| [0304-range-sum-query-2d-immutable](https://github.com/raunak0907/LEETCODE/tree/master/0304-range-sum-query-2d-immutable) |
 | [0410-split-array-largest-sum](https://github.com/raunak0907/LEETCODE/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/raunak0907/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/raunak0907/LEETCODE/tree/master/0930-binary-subarrays-with-sum) |
@@ -341,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/raunak0907/LEETCODE/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/raunak0907/LEETCODE/tree/master/0225-implement-stack-using-queues) |
+| [0304-range-sum-query-2d-immutable](https://github.com/raunak0907/LEETCODE/tree/master/0304-range-sum-query-2d-immutable) |
 | [0901-online-stock-span](https://github.com/raunak0907/LEETCODE/tree/master/0901-online-stock-span) |
 ## Queue
 |  |
@@ -381,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/raunak0907/LEETCODE/tree/master/0048-rotate-image) |
 | [0240-search-a-2d-matrix-ii](https://github.com/raunak0907/LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
+| [0304-range-sum-query-2d-immutable](https://github.com/raunak0907/LEETCODE/tree/master/0304-range-sum-query-2d-immutable) |
 | [0835-image-overlap](https://github.com/raunak0907/LEETCODE/tree/master/0835-image-overlap) |
 | [1901-find-a-peak-element-ii](https://github.com/raunak0907/LEETCODE/tree/master/1901-find-a-peak-element-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/raunak0907/LEETCODE/tree/master/3568-minimum-moves-to-clean-the-classroom) |
