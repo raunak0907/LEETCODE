@@ -249,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/raunak0907/LEETCODE/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/raunak0907/LEETCODE/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/raunak0907/LEETCODE/tree/master/0189-rotate-array) |
+| [0836-rectangle-overlap](https://github.com/raunak0907/LEETCODE/tree/master/0836-rectangle-overlap) |
 | [1248-count-number-of-nice-subarrays](https://github.com/raunak0907/LEETCODE/tree/master/1248-count-number-of-nice-subarrays) |
 | [1903-largest-odd-number-in-string](https://github.com/raunak0907/LEETCODE/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/raunak0907/LEETCODE/tree/master/1927-sum-game) |
@@ -524,4 +525,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/raunak0907/LEETCODE/tree/master/0912-sort-an-array) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/raunak0907/LEETCODE/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
