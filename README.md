@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/raunak0907/LEETCODE/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/raunak0907/LEETCODE/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/raunak0907/LEETCODE/tree/master/0344-reverse-string) |
+| [0394-decode-string](https://github.com/raunak0907/LEETCODE/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/raunak0907/LEETCODE/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/raunak0907/LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/raunak0907/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/raunak0907/LEETCODE/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/raunak0907/LEETCODE/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/raunak0907/LEETCODE/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/raunak0907/LEETCODE/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/raunak0907/LEETCODE/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/raunak0907/LEETCODE/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/raunak0907/LEETCODE/tree/master/0682-baseball-game) |
@@ -510,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/raunak0907/LEETCODE/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/raunak0907/LEETCODE/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/raunak0907/LEETCODE/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/raunak0907/LEETCODE/tree/master/0394-decode-string) |
 | [3483-unique-3-digit-even-numbers](https://github.com/raunak0907/LEETCODE/tree/master/3483-unique-3-digit-even-numbers) |
 ## Floyd's Cycle Finding Algorithm
 |  |
