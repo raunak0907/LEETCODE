@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/raunak0907/LEETCODE/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/raunak0907/LEETCODE/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/raunak0907/LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/raunak0907/LEETCODE/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/raunak0907/LEETCODE/tree/master/0283-move-zeroes) |
 | [0304-range-sum-query-2d-immutable](https://github.com/raunak0907/LEETCODE/tree/master/0304-range-sum-query-2d-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/raunak0907/LEETCODE/tree/master/0347-top-k-frequent-elements) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/raunak0907/LEETCODE/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/raunak0907/LEETCODE/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/raunak0907/LEETCODE/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/raunak0907/LEETCODE/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/raunak0907/LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/raunak0907/LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/raunak0907/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/raunak0907/LEETCODE/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/raunak0907/LEETCODE/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/raunak0907/LEETCODE/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/raunak0907/LEETCODE/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/raunak0907/LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/raunak0907/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 | [0853-car-fleet](https://github.com/raunak0907/LEETCODE/tree/master/0853-car-fleet) |
@@ -283,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/raunak0907/LEETCODE/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/raunak0907/LEETCODE/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/raunak0907/LEETCODE/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/raunak0907/LEETCODE/tree/master/0268-missing-number) |
 | [0836-rectangle-overlap](https://github.com/raunak0907/LEETCODE/tree/master/0836-rectangle-overlap) |
 | [1248-count-number-of-nice-subarrays](https://github.com/raunak0907/LEETCODE/tree/master/1248-count-number-of-nice-subarrays) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/raunak0907/LEETCODE/tree/master/1401-circle-and-rectangle-overlapping) |
@@ -332,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/raunak0907/LEETCODE/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/raunak0907/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/raunak0907/LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/raunak0907/LEETCODE/tree/master/0268-missing-number) |
 | [0410-split-array-largest-sum](https://github.com/raunak0907/LEETCODE/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/raunak0907/LEETCODE/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/raunak0907/LEETCODE/tree/master/0540-single-element-in-a-sorted-array) |
@@ -415,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/raunak0907/LEETCODE/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/raunak0907/LEETCODE/tree/master/0268-missing-number) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/raunak0907/LEETCODE/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Quicksort
 |  |
