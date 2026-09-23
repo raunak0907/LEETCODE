@@ -5,7 +5,15 @@ class Solution:
         """
         n=len(nums)
         k=k%n
-        nums[:]=nums[-k:]+nums[:-k]
+        def reverse(left:int,right:int):
+            while left<right:
+                nums[left],nums[right]=nums[right],nums[left]
+                left+=1
+                right-=1
+
+        reverse(0,n-1)
+        reverse(0,k-1)
+        reverse(k,n-1)
         
         
 
