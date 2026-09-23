@@ -7,6 +7,5 @@ class Solution:
                 curr=0
             curr+=n
             maxi=max(maxi,curr)
-        return maxi
 
-        
+        return maxi
