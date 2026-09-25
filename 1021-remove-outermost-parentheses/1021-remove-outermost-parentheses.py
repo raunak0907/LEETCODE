@@ -1,17 +1,17 @@
 class Solution:
     def removeOuterParentheses(self, s: str) -> str:
-        result = ""
+        res= ""
         count = 0
 
         for c in s:
             if c == '(':
                 if count > 0:
-                    result += c
+                    res+= c
                 count += 1
 
             else:
                 count -= 1
                 if count > 0:
-                    result += c
+                    res += c
 
-        return result
+        return res
