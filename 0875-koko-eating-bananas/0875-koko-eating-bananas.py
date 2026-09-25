@@ -6,7 +6,7 @@ class Solution:
             k=(l+r)//2
             hours=0
             for p in  piles:
-                hours += (p + k - 1) // k
+                hours+=math.ceil(p/k)
             if hours<=h:
                 res=min(res,k)
                 r=k-1
