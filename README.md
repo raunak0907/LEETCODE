@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/raunak0907/LEETCODE/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/raunak0907/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0622-design-circular-queue](https://github.com/raunak0907/LEETCODE/tree/master/0622-design-circular-queue) |
+| [0643-maximum-average-subarray-i](https://github.com/raunak0907/LEETCODE/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/raunak0907/LEETCODE/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/raunak0907/LEETCODE/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/raunak0907/LEETCODE/tree/master/0735-asteroid-collision) |
@@ -370,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/raunak0907/LEETCODE/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/raunak0907/LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/raunak0907/LEETCODE/tree/master/0567-permutation-in-string) |
+| [0643-maximum-average-subarray-i](https://github.com/raunak0907/LEETCODE/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/raunak0907/LEETCODE/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/raunak0907/LEETCODE/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/raunak0907/LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
