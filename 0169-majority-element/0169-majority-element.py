@@ -9,5 +9,4 @@ class Solution:
                 count+=1
             else:
                 count-=1
-        return res
-        
+        return res if nums.count(res) > len(nums) // 2 else None
