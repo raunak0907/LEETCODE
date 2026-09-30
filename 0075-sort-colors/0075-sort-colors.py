@@ -3,10 +3,12 @@ class Solution:
         """
         Do not return anything, modify nums in-place instead.
         """
-        low,high,mid=0,len(nums)-1,0
+        low=0
+        mid=0
+        high=len(nums)-1
         while mid<=high:
             if nums[mid]==0:
-                nums[low],nums[mid]=nums[mid],nums[low]
+                nums[mid],nums[low]=nums[low],nums[mid]
                 mid+=1
                 low+=1
             elif nums[mid]==1:
@@ -14,5 +16,4 @@ class Solution:
             else:
                 nums[high],nums[mid]=nums[mid],nums[high]
                 high-=1
-                
             
