@@ -1,21 +1,20 @@
 class Solution:
-    def shipWithinDays(self, weights: List[int], days: int) -> int:
+    def shipWithinDays(self, weights: list[int], days: int) -> int:
         l=max(weights)
         r=sum(weights)
-
         while l<r:
-            mid=(l+r)//2
-
+            m=(l+r)//2
             d=1
             current=0
             for w in weights:
-                if current+w>mid:
+                if current+w>m:
                     d+=1
                     current=0
                 current+=w
             if d<=days:
-                r=mid
+                r=m
             else:
-                l=mid+1
+                l=m+1
         return l
+
         
