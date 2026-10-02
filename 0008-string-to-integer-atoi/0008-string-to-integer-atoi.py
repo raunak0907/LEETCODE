@@ -1,13 +1,13 @@
 class Solution:
     def myAtoi(self, s: str) -> int:
-        i=0
         n=len(s)
+        i=0
         while i<n and s[i]==" ":
             i+=1
         sign=1
         if i<n and s[i]=="-":
-            sign=-1
             i+=1
+            sign=-1
         elif i<n and s[i]=="+":
             i+=1
         num=0
