@@ -1,26 +1,21 @@
 class Solution:
     def reverseWords(self, s: str) -> str:
-
-        words = []
-        word = ""
-
+        words=[]
+        word=""
         for ch in s:
-            if ch != ' ':
-                word += ch
+            if ch!=" ":
+                word+=ch
             else:
                 if word:
                     words.append(word)
-                    word = ""
-
+                    word=""
         if word:
             words.append(word)
-
-        result = ""
-
-        for i in range(len(words) - 1, -1, -1):
-            result += words[i]
-
-            if i != 0:
-                result += " "
-
+        
+        result=""
+        for i in range(len(words)-1,-1,-1):
+            result+=words[i]
+            if i!=0:
+                result+= " "
         return result
+        
