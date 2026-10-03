@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/raunak0907/LEETCODE/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/raunak0907/LEETCODE/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/raunak0907/LEETCODE/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/raunak0907/LEETCODE/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/raunak0907/LEETCODE/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/raunak0907/LEETCODE/tree/master/0680-valid-palindrome-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/raunak0907/LEETCODE/tree/master/0876-middle-of-the-linked-list) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/raunak0907/LEETCODE/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/raunak0907/LEETCODE/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/raunak0907/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
+| [0392-is-subsequence](https://github.com/raunak0907/LEETCODE/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/raunak0907/LEETCODE/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/raunak0907/LEETCODE/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/raunak0907/LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
@@ -422,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/raunak0907/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/raunak0907/LEETCODE/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/raunak0907/LEETCODE/tree/master/0152-maximum-product-subarray) |
+| [0392-is-subsequence](https://github.com/raunak0907/LEETCODE/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/raunak0907/LEETCODE/tree/master/0410-split-array-largest-sum) |
 | [0907-sum-of-subarray-minimums](https://github.com/raunak0907/LEETCODE/tree/master/0907-sum-of-subarray-minimums) |
 | [0940-distinct-subsequences-ii](https://github.com/raunak0907/LEETCODE/tree/master/0940-distinct-subsequences-ii) |
