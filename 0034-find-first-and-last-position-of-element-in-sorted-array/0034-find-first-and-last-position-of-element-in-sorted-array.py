@@ -1,6 +1,6 @@
 class Solution:
     def searchRange(self, nums: list[int], target: int) -> list[int]:
-        def first_position():
+        def first():
             l,r=0,len(nums)-1
             ans=-1
             while l<=r:
@@ -13,7 +13,7 @@ class Solution:
                 else:
                     r=m-1
             return ans
-        def last_position():
+        def last():
             l,r=0,len(nums)-1
             ans=-1
             while l<=r:
@@ -26,6 +26,5 @@ class Solution:
                 else:
                     r=m-1
             return ans
-        return (first_position(),last_position())
-
+        return [first(),last()]
         
