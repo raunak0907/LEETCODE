@@ -11,10 +11,4 @@ class Solution:
                 r+=2
         return res
 
-
-
-
-
-
-
         
