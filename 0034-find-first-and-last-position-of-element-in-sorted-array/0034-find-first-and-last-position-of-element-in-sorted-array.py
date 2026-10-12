@@ -1,8 +1,8 @@
 class Solution:
     def searchRange(self, nums: list[int], target: int) -> list[int]:
         def first():
-            l,r=0,len(nums)-1
             ans=-1
+            l,r=0,len(nums)-1
             while l<=r:
                 m=(l+r)//2
                 if nums[m]==target:
@@ -27,4 +27,5 @@ class Solution:
                     r=m-1
             return ans
         return [first(),last()]
+
         
