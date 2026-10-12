@@ -6,5 +6,5 @@ class Solution:
             if diff in prev:
                 return [prev[diff],i]
             prev[n]=i
-
-        return prev        
+        return prev
+        
