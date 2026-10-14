@@ -10,5 +10,4 @@ class Solution:
                 res[r]=nums[i]
                 r+=2
         return res
-
         
