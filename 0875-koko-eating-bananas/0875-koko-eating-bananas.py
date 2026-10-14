@@ -10,5 +10,5 @@ class Solution:
                 r=k
             else:
                 l=k+1
-        
         return l
+        
