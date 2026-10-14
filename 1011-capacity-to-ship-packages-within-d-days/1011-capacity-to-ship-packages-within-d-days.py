@@ -4,16 +4,15 @@ class Solution:
         r=sum(weights)
         while l<r:
             m=(l+r)//2
+            curr=0
             d=1
-            current=0
             for w in weights:
-                if current+w>m:
+                if curr+w>m:
                     d+=1
-                    current=0
-                current+=w
+                    curr=0
+                curr+=w
             if d<=days:
                 r=m
             else:
                 l=m+1
         return l
-        
