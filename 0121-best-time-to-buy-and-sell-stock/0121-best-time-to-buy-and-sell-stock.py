@@ -6,7 +6,6 @@ class Solution:
             if prices[l]<prices[r]:
                 profit=prices[r]-prices[l]
                 maxp=max(maxp,profit)
-            
             else:
                 l=r
             r+=1
