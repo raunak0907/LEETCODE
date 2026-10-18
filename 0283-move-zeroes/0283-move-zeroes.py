@@ -8,4 +8,3 @@ class Solution:
             if nums[i]!=0:
                 nums[i],nums[k]=nums[k],nums[i]
                 k+=1
-        
