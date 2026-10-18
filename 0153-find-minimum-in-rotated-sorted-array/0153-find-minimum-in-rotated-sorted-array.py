@@ -6,6 +6,6 @@ class Solution:
             if nums[m]<nums[r]:
                 r=m
             else:
-                l=m+1
+                l+=1
         return nums[l]
         
