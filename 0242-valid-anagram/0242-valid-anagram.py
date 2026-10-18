@@ -8,14 +8,13 @@ class Solution:
                 count[ch]+=1
             else:
                 count[ch]=1
+        
         for ch in t:
             if ch not in count:
                 return False
             count[ch]-=1
-            
             if count[ch]<0:
                 return False
+        
         return True
-
-
         
