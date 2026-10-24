@@ -251,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/raunak0907/LEETCODE/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/raunak0907/LEETCODE/tree/master/1927-sum-game) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/raunak0907/LEETCODE/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
+| [2409-count-days-spent-together](https://github.com/raunak0907/LEETCODE/tree/master/2409-count-days-spent-together) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/raunak0907/LEETCODE/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/raunak0907/LEETCODE/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [3498-reverse-degree-of-a-string](https://github.com/raunak0907/LEETCODE/tree/master/3498-reverse-degree-of-a-string) |
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/raunak0907/LEETCODE/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1903-largest-odd-number-in-string](https://github.com/raunak0907/LEETCODE/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/raunak0907/LEETCODE/tree/master/1927-sum-game) |
+| [2409-count-days-spent-together](https://github.com/raunak0907/LEETCODE/tree/master/2409-count-days-spent-together) |
 | [3524-find-x-value-of-array-i](https://github.com/raunak0907/LEETCODE/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/raunak0907/LEETCODE/tree/master/3525-find-x-value-of-array-ii) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/raunak0907/LEETCODE/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
